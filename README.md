@@ -1,36 +1,17 @@
 # Ever Mamani Vicente
-## Desarrollador de Software Comercial | Full Stack (Backend-Oriented)
+**Desarrollador Full Stack | Backend/Frontend & Arquitectura de Software**
 
-Bolivia  
-Ingeniería de Desarrollo de Software Comercial  
-Ingeniería de Sistemas  
+Bolivia | Ingeniería de Desarrollo de Software Comercial
 
-[GitHub](https://github.com/MamaniVicenteEver) • 
-[LinkedIn](https://www.linkedin.com/in/ever-mamani-dev/) • 
-Correo: evermamanivicente@gmail.com
+[GitHub](https://github.com/MamaniVicenteEver) • [LinkedIn](https://www.linkedin.com/in/ever-mamani-dev/) • evermamanivicente@gmail.com
 
 ---
 
-## Perfil Profesional
+## Sobre mí
 
-Desarrollador de software full stack especializado en backend y arquitectura de software, con experiencia construyendo **productos comerciales escalables** desde el análisis de requerimientos hasta producción. Trabajo con un fuerte enfoque en **calidad técnica, performance y toma de decisiones justificadas por impacto de negocio**.
+Desarrollador full stack especializado en backend y arquitectura de software. Construyo productos comerciales escalables equilibrando calidad técnica, performance y decisiones justificadas por impacto de negocio.
 
-He participado en el desarrollo de plataformas e-commerce, sistemas fiscales y soluciones SaaS, aplicando **Clean Architecture, Domain-Driven Design y patrones de diseño**, cuidando el balance entre **costos operativos, mantenibilidad y time-to-market**.
-
-Actualmente enfocado en **integración de inteligencia artificial aplicada a problemas reales de negocio**, diseño de sistemas y orquestación de servicios.
-
----
-
-## Áreas que me Apasionan
-
-- Diseño de sistemas y arquitectura de software
-- Desarrollo de productos comerciales escalables
-- Backend engineering y optimización de bases de datos
-- Integración de inteligencia artificial en productos reales
-- Toma de decisiones técnicas basadas en análisis de negocio
-- Automatización de procesos complejos
-
----
+Trabajo con Clean Architecture, Domain-Driven Design y patrones de diseño, cuidando el balance entre costos operativos, mantenibilidad y time-to-market. Actualmente enfocado en integración de IA aplicada a problemas reales de negocio.
 
 ## Tecnologías Principales
 
@@ -123,7 +104,3 @@ Actualmente desarrollo mi **tesis enfocada en la aplicación de inteligencia art
 
 ---
 
-## Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MamaniVicenteEver&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MamaniVicenteEver&layout=compact)

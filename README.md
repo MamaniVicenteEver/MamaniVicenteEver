@@ -66,31 +66,53 @@ Product creation is not just about writing code; it's about architecting intent.
 
 ## Featured Projects
 
+---
+
 ### AudioDAS – Distributed Audio Processing System
 
-[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github)](https://github.com/MamaniVicenteEver/audio-das-ia)
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github)](https://github.com/MamaniVicenteEver/audio-das-ia)
 
-Distributed audio processing with .NET 9 and Next.js 16. The system orchestrates transcription (Whisper), summarization (Flan-T5), and filtering through isolated Python subprocesses, ensuring flexibility and zero external dependencies. Its concurrency engine uses in‑memory channels with backpressure and 2‑2‑2 semaphores (jobs, FFmpeg, AI) to maintain 0% error rate under high load. It also performs client‑side domain validation with ONNX Runtime and delivers instant streaming via HTTP 206.
+Distributed audio processing with .NET 9 and Next.js 16. The system orchestrates transcription (Whisper), summarization (Flan-T5), and filtering through isolated Python subprocesses, ensuring flexibility and zero external dependencies. Its concurrency engine uses in-memory channels with backpressure and 2-2-2 semaphores (jobs, FFmpeg, AI) to maintain 0% error rate under high load. It also performs client-side domain validation with ONNX Runtime and delivers instant streaming via HTTP 206.
+
+---
 
 ### AI Content Creation System
 
-**Python · FastAPI · LangChain · Multiple LLMs**  
-Platform for AI‑assisted narrative co‑creation, maintaining coherence across chapters through orchestration of multiple models and decoupled architecture based on DDD.
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github)](https://github.com/MamaniVicenteEver/ai-content-orchestrator)
+
+**Python · FastAPI · LangChain · Multiple LLMs**
+
+Platform for AI-assisted narrative co-creation, maintaining coherence across chapters through orchestration of multiple models and decoupled architecture based on DDD.
+
+---
+
+### Aeternum – Full Stack E-commerce
+
+[![Live Site](https://img.shields.io/badge/Visit%20Website-000000?style=flat-square&logo=vercel)](https://aeternum.boutique/)
+
+**Next.js · Supabase · PostgreSQL · Cloudflare R2 · Vercel**
+
+Clothing e-commerce platform with inventory management, bulk product upload via CSV/Excel, and automatic image processing.
+
+---
 
 ### PixPro – SaaS Image Processing Platform
 
-**Node.js · C# · Kafka · Redis · Docker**  
-Event‑driven microservices architecture, parallel image processing, and real‑time notifications via WebSockets.
+[![Repository](https://img.shields.io/badge/Private%20Project-555555?style=flat-square)](#)
 
-### Aeternum – Full Stack E‑commerce
+**Node.js · C# · Kafka · Redis · Docker**
 
-**Next.js · Supabase · PostgreSQL · Cloudflare R2 · Vercel**  
-Clothing e‑commerce platform with inventory management, bulk product upload via CSV/Excel, and automatic image processing.
+Event-driven microservices architecture, parallel image processing, and real-time notifications via WebSockets.
+
+---
 
 ### AYSI – Backend for Tax Platform
 
-**Java 17 · Spring Boot · MySQL · JWT**  
-REST API development for automating Bolivian tax forms (200‑IVA, 400‑IT, 500‑IUE, 610‑RC‑IVA) with SQL query optimization (<1.5s with +10,000 records).
+[![Repository](https://img.shields.io/badge/Private%20Project-555555?style=flat-square)](#)
+
+**Java 17 · Spring Boot · MySQL · JWT**
+
+REST API development for automating Bolivian tax forms (200-IVA, 400-IT, 500-IUE, 610-RC-IVA) with SQL query optimization (<1.5s with +10,000 records).
 
 ---
 
